@@ -4,7 +4,7 @@
 >
 > See the [Grants Program Process](https://github.com/w3f/Grants-Program/#pencil-process) on how to submit a proposal.
 
-- **Project Name:** Abracadabra money
+- **Project Name:** Coinversation Protocol
 - **Team Name:** CryptoGeek
 - **Payment Address:** 0xaEec291f083a77ddfEa686223Dd37827FDFcD360(DAI)
 
@@ -18,7 +18,7 @@ If this is an application for a follow-up grant (the continuation of an earlier,
 
 ### Overview
 
-Abracadabra.money is a lending platform that uses interest-bearing tokens (ibTKNs) as collateral to borrow a USD pegged stablecoin (Magic Internet Money - MIM), that can be used as any other traditional stablecoin.Currently, a lot of assets, such as yVaults have locked in capital that can't be put to further use. Abracadabra offers an opportunity to use it. 
+Coinversation Protocol is a stable currency protocol based on interest-bearing assets based on the parachain of Polkadot. Users can use different currencies such as CTO and DOT, etc to synthesize CUSD through smart contracts and oracle. Users can cast CUSD by staking tokens that can generate interest. Bridging USDT, USDC and other stable currencies to Coinversation to form the largest stable currency exchange platform in the Polkadot ecosystem. 
 
 - An indication of how your project relates to / integrates into Substrate / Polkadot / Kusama.
 - An indication of why your team is interested in creating this project.
