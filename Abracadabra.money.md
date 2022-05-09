@@ -18,10 +18,8 @@ If this is an application for a follow-up grant (the continuation of an earlier,
 
 ### Overview
 
-Please provide the following:
+Abracadabra.money is a lending platform that uses interest-bearing tokens (ibTKNs) as collateral to borrow a USD pegged stablecoin (Magic Internet Money - MIM), that can be used as any other traditional stablecoin.Currently, a lot of assets, such as yVaults have locked in capital that can't be put to further use. Abracadabra offers an opportunity to use it. 
 
-- If the name of your project is not descriptive, a tag line (one sentence summary).
-- A brief description of your project.
 - An indication of how your project relates to / integrates into Substrate / Polkadot / Kusama.
 - An indication of why your team is interested in creating this project.
 
